@@ -1,0 +1,197 @@
+2024-08-24 09:40:49,291 - Mouse clicked at (895, 917) with Button.left
+2024-08-24 09:40:49,709 - Mouse clicked at (895, 917) with Button.left
+2024-08-24 09:40:50,822 - Key pressed: d
+2024-08-24 09:40:51,155 - Key pressed: c
+2024-08-24 09:40:51,306 - Key pressed: w
+2024-08-24 09:40:51,387 - Key released: 'd'
+2024-08-24 09:40:51,458 - Key released: 'c'
+2024-08-24 09:40:51,681 - Key released: 'w'
+2024-08-24 09:40:52,013 - Special key pressed: Key.enter
+2024-08-24 09:40:52,164 - Key released: Key.enter
+2024-08-24 09:40:52,450 - Key pressed: w
+2024-08-24 09:40:52,588 - Special key pressed: Key.enter
+2024-08-24 09:40:52,657 - Key released: 'w'
+2024-08-24 09:40:52,689 - Key released: Key.enter
+2024-08-24 09:40:52,741 - Key pressed: w
+2024-08-24 09:40:52,841 - Key released: 'w'
+2024-08-24 09:40:52,896 - Special key pressed: Key.enter
+2024-08-24 09:40:52,993 - Key pressed: w
+2024-08-24 09:40:52,999 - Key released: Key.enter
+2024-08-24 09:40:53,122 - Key released: 'w'
+2024-08-24 09:40:53,161 - Special key pressed: Key.enter
+2024-08-24 09:40:53,227 - Key pressed: w
+2024-08-24 09:40:53,265 - Key released: Key.enter
+2024-08-24 09:40:53,318 - Key released: 'w'
+2024-08-24 09:40:53,385 - Special key pressed: Key.enter
+2024-08-24 09:40:53,420 - Key pressed: w
+2024-08-24 09:40:53,501 - Key released: Key.enter
+2024-08-24 09:40:53,504 - Key released: 'w'
+2024-08-24 09:40:53,607 - Key pressed: w
+2024-08-24 09:40:53,613 - Special key pressed: Key.enter
+2024-08-24 09:40:53,683 - Key released: 'w'
+2024-08-24 09:40:53,704 - Key released: Key.enter
+2024-08-24 09:40:53,771 - Key pressed: w
+2024-08-24 09:40:53,799 - Special key pressed: Key.enter
+2024-08-24 09:40:53,856 - Key released: 'w'
+2024-08-24 09:40:53,893 - Key released: Key.enter
+2024-08-24 09:40:53,942 - Key pressed: w
+2024-08-24 09:40:53,981 - Special key pressed: Key.enter
+2024-08-24 09:40:54,020 - Key released: 'w'
+2024-08-24 09:40:54,072 - Key released: Key.enter
+2024-08-24 09:40:54,108 - Key pressed: w
+2024-08-24 09:40:54,181 - Special key pressed: Key.enter
+2024-08-24 09:40:54,210 - Key released: 'w'
+2024-08-24 09:40:54,261 - Key pressed: w
+2024-08-24 09:40:54,766 - Key pressed: w
+2024-08-24 09:40:54,798 - Key pressed: w
+2024-08-24 09:40:54,830 - Key pressed: w
+2024-08-24 09:40:54,863 - Key pressed: w
+2024-08-24 09:40:54,895 - Key pressed: w
+2024-08-24 09:40:54,928 - Key pressed: w
+2024-08-24 09:40:54,960 - Key pressed: w
+2024-08-24 09:40:54,992 - Key pressed: w
+2024-08-24 09:40:55,025 - Key pressed: w
+2024-08-24 09:40:55,057 - Key pressed: w
+2024-08-24 09:40:55,089 - Key pressed: w
+2024-08-24 09:40:55,121 - Key pressed: w
+2024-08-24 09:40:55,154 - Key pressed: w
+2024-08-24 09:40:55,187 - Key pressed: w
+2024-08-24 09:40:55,219 - Key pressed: w
+2024-08-24 09:40:55,251 - Key released: Key.enter
+2024-08-24 09:40:55,282 - Key pressed: w
+2024-08-24 09:40:55,314 - Key released: 'w'
+2024-08-24 09:40:55,352 - Special key pressed: Key.enter
+2024-08-24 09:40:55,766 - Key released: Key.enter
+2024-08-24 09:40:55,777 - Key pressed: w
+2024-08-24 09:40:55,887 - Key released: 'w'
+2024-08-24 09:40:55,893 - Special key pressed: Key.enter
+2024-08-24 09:40:55,977 - Key released: Key.enter
+2024-08-24 09:40:55,994 - Key pressed: w
+2024-08-24 09:40:56,078 - Key released: 'w'
+2024-08-24 09:40:56,150 - Special key pressed: Key.enter
+2024-08-24 09:40:56,236 - Key released: Key.enter
+2024-08-24 09:40:56,241 - Key pressed: w
+2024-08-24 09:40:56,332 - Key released: 'w'
+2024-08-24 09:40:56,392 - Special key pressed: Key.enter
+2024-08-24 09:40:56,485 - Key released: Key.enter
+2024-08-24 09:40:56,536 - Key pressed: w
+2024-08-24 09:40:56,620 - Key released: 'w'
+2024-08-24 09:40:56,703 - Special key pressed: Key.enter
+2024-08-24 09:40:56,768 - Key released: Key.enter
+2024-08-24 09:40:56,861 - Special key pressed: Key.enter
+2024-08-24 09:40:56,949 - Key released: Key.enter
+2024-08-24 09:40:56,976 - Key pressed: w
+2024-08-24 09:40:57,078 - Key released: 'w'
+2024-08-24 09:40:57,090 - Special key pressed: Key.enter
+2024-08-24 09:40:57,165 - Key released: Key.enter
+2024-08-24 09:40:57,247 - Special key pressed: Key.enter
+2024-08-24 09:40:57,312 - Key released: Key.enter
+2024-08-24 09:40:57,323 - Key pressed: w
+2024-08-24 09:40:57,419 - Key released: 'w'
+2024-08-24 09:40:57,426 - Special key pressed: Key.enter
+2024-08-24 09:40:57,502 - Key released: Key.enter
+2024-08-24 09:40:57,589 - Special key pressed: Key.enter
+2024-08-24 09:40:57,690 - Key released: Key.enter
+2024-08-24 09:40:57,717 - Key pressed: w
+2024-08-24 09:40:57,800 - Key released: 'w'
+2024-08-24 09:40:57,819 - Special key pressed: Key.enter
+2024-08-24 09:40:57,877 - Key released: Key.enter
+2024-08-24 09:40:57,957 - Special key pressed: Key.enter
+2024-08-24 09:40:58,025 - Key released: Key.enter
+2024-08-24 09:40:58,129 - Key pressed: w
+2024-08-24 09:40:58,216 - Key released: 'w'
+2024-08-24 09:40:58,255 - Special key pressed: Key.enter
+2024-08-24 09:40:58,346 - Key released: Key.enter
+2024-08-24 09:40:58,418 - Key pressed: w
+2024-08-24 09:40:58,431 - Special key pressed: Key.enter
+2024-08-24 09:40:58,484 - Key released: 'w'
+2024-08-24 09:40:58,519 - Key released: Key.enter
+2024-08-24 09:40:58,615 - Special key pressed: Key.enter
+2024-08-24 09:40:58,632 - Key pressed: w
+2024-08-24 09:40:58,661 - Key released: 'w'
+2024-08-24 09:40:58,706 - Key released: Key.enter
+2024-08-24 09:40:58,750 - Key pressed: w
+2024-08-24 09:40:58,785 - Special key pressed: Key.enter
+2024-08-24 09:40:58,831 - Key released: 'w'
+2024-08-24 09:40:58,873 - Key released: Key.enter
+2024-08-24 09:40:58,939 - Special key pressed: Key.enter
+2024-08-24 09:40:58,949 - Key pressed: w
+2024-08-24 09:40:58,989 - Key released: 'w'
+2024-08-24 09:40:59,072 - Key released: Key.enter
+2024-08-24 09:40:59,079 - Key pressed: w
+2024-08-24 09:40:59,150 - Key released: 'w'
+2024-08-24 09:40:59,156 - Special key pressed: Key.enter
+2024-08-24 09:40:59,222 - Key pressed: w
+2024-08-24 09:40:59,261 - Key released: Key.enter
+2024-08-24 09:40:59,284 - Key released: 'w'
+2024-08-24 09:41:02,424 - Mouse clicked at (1117, 108) with Button.left
+2024-08-24 09:41:05,696 - Mouse clicked at (423, 248) with Button.left
+2024-08-24 09:41:07,570 - Mouse clicked at (289, 305) with Button.left
+2024-08-24 09:41:09,384 - Mouse clicked at (1004, 102) with Button.left
+2024-08-24 09:41:11,496 - Mouse clicked at (290, 311) with Button.left
+2024-08-24 09:41:12,237 - Mouse clicked at (283, 285) with Button.left
+2024-08-24 09:41:15,532 - Mouse clicked at (1102, 109) with Button.left
+2024-08-24 09:41:16,180 - Mouse clicked at (1178, 101) with Button.left
+2024-08-24 09:41:16,883 - Mouse clicked at (276, 282) with Button.left
+2024-08-24 09:41:17,301 - Mouse clicked at (289, 281) with Button.left
+2024-08-24 09:41:17,482 - Mouse clicked at (289, 281) with Button.left
+2024-08-24 09:41:18,324 - Mouse clicked at (280, 283) with Button.left
+2024-08-24 09:41:18,432 - Mouse clicked at (280, 283) with Button.left
+2024-08-24 09:41:21,742 - Mouse clicked at (757, 529) with Button.left
+2024-08-24 09:41:22,469 - Key pressed: h
+2024-08-24 09:41:22,543 - Key pressed: b
+2024-08-24 09:41:22,627 - Key released: 'h'
+2024-08-24 09:41:22,692 - Key released: 'b'
+2024-08-24 09:41:23,069 - Special key pressed: Key.enter
+2024-08-24 09:41:23,201 - Key released: Key.enter
+2024-08-24 09:41:23,682 - Key pressed: f
+2024-08-24 09:41:23,902 - Key released: 'f'
+2024-08-24 09:41:23,917 - Special key pressed: Key.enter
+2024-08-24 09:41:24,097 - Key released: Key.enter
+2024-08-24 09:41:26,842 - Mouse clicked at (359, 292) with Button.left
+2024-08-24 09:41:27,727 - Mouse clicked at (358, 292) with Button.left
+2024-08-24 09:41:27,933 - Mouse clicked at (358, 292) with Button.left
+2024-08-24 09:41:30,877 - Mouse clicked at (933, 450) with Button.left
+2024-08-24 09:41:32,795 - Mouse clicked at (1269, 824) with Button.left
+2024-08-24 09:41:38,371 - Mouse clicked at (1363, 596) with Button.left
+2024-08-24 09:41:39,054 - Key pressed: e
+2024-08-24 09:41:39,242 - Key released: 'e'
+2024-08-24 09:41:40,293 - Special key pressed: Key.enter
+2024-08-24 09:41:40,438 - Key released: Key.enter
+2024-08-24 09:41:40,716 - Key pressed: 3
+2024-08-24 09:41:40,861 - Key released: '3'
+2024-08-24 09:41:40,893 - Special key pressed: Key.enter
+2024-08-24 09:41:41,016 - Key released: Key.enter
+2024-08-24 09:41:42,146 - Mouse clicked at (1095, 927) with Button.left
+2024-08-24 09:41:46,679 - Mouse clicked at (1046, 463) with Button.left
+2024-08-24 09:41:48,710 - Mouse clicked at (864, 674) with Button.left
+2024-08-24 09:41:49,119 - Special key pressed: Key.enter
+2024-08-24 09:41:49,345 - Key released: Key.enter
+2024-08-24 09:41:50,474 - Special key pressed: Key.esc
+2024-08-24 09:41:50,693 - Key released: Key.esc
+2024-08-24 09:41:52,352 - Mouse clicked at (1051, 455) with Button.left
+2024-08-24 09:41:55,234 - Mouse clicked at (1037, 610) with Button.left
+2024-08-24 09:41:59,387 - Mouse clicked at (212, 363) with Button.left
+2024-08-24 09:41:59,801 - Mouse clicked at (315, 356) with Button.left
+2024-08-24 09:42:02,345 - Mouse clicked at (1003, 82) with Button.left
+2024-08-24 09:42:02,819 - Mouse clicked at (1163, 79) with Button.left
+2024-08-24 09:42:03,250 - Mouse clicked at (1156, 84) with Button.left
+2024-08-24 09:42:05,884 - Mouse clicked at (1399, 450) with Button.left
+2024-08-24 09:42:11,909 - Mouse clicked at (1716, 996) with Button.left
+2024-08-24 09:42:13,938 - Mouse clicked at (1121, 455) with Button.left
+2024-08-24 09:42:16,407 - Mouse clicked at (1188, 95) with Button.left
+2024-08-24 09:42:21,764 - Mouse clicked at (1890, 1063) with Button.left
+2024-08-24 09:42:22,550 - Mouse clicked at (1451, 913) with Button.left
+2024-08-24 09:43:50,049 - Mouse clicked at (1027, 515) with Button.left
+2024-08-24 09:43:54,138 - Mouse clicked at (768, 716) with Button.left
+2024-08-24 09:43:55,144 - Mouse clicked at (930, 618) with Button.left
+2024-08-24 09:44:03,673 - Mouse clicked at (1098, 114) with Button.left
+2024-08-24 09:44:04,143 - Mouse clicked at (1099, 110) with Button.left
+2024-08-24 09:44:05,155 - Mouse clicked at (1085, 100) with Button.left
+2024-08-24 09:44:07,126 - Mouse clicked at (955, 571) with Button.left
+2024-08-24 09:44:13,620 - Mouse clicked at (1839, 702) with Button.left
+2024-08-24 09:44:15,299 - Mouse clicked at (760, 134) with Button.left
+2024-08-24 09:44:21,539 - Mouse clicked at (1884, 70) with Button.left
+2024-08-24 09:44:23,967 - Mouse clicked at (1116, 828) with Button.left
+2024-08-24 09:44:31,607 - Mouse clicked at (1135, 85) with Button.left
+2024-08-24 09:44:33,115 - Mouse clicked at (1876, 53) with Button.left
